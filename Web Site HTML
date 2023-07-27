@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do Restaurante</title>
+    <!-- Vincule a folha de estilo CSS externa aqui -->
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <!-- Cabeçalho do site -->
+    <header>
+        <h1>Nome do Restaurante</h1>
+        <!-- Adicione uma imagem do logo do restaurante aqui, se tiver -->
+        <nav>
+            <ul>
+                <!-- Adicione links para as páginas do site aqui -->
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Cardápio</a></li>
+                <li><a href="#">Reservas</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main>
+        <!-- Seção do menu ou cardápio -->
+        <section id="menu">
+            <h2>Cardápio</h2>
+            <!-- Adicione aqui informações sobre os pratos, bebidas, etc. -->
+        </section>
+
+        <!-- Seção de reservas -->
+        <section id="reservas">
+            <h2>Reservas</h2>
+            <!-- Adicione um formulário de reserva aqui -->
+        </section>
+
+        <!-- Seção de informações de contato -->
+        <section id="contato">
+            <h2>Contato</h2>
+            <!-- Adicione informações de contato, como endereço, telefone, e-mail, etc. -->
+        </section>
+    </main>
+
+    <!-- Rodapé do site -->
+    <footer>
+        <p>&copy; Ano - Nome do Restaurante. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
